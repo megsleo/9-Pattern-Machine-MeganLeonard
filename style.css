@@ -1,0 +1,16 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+.box{
+  max-width: 5px;
+  max-height: 5px;
+  width: 5%;
+  aspect-ratio: 1/1;
+  /*border: 1px solid black;*/
+}
+
+.row{
+  display: flex;
+}
